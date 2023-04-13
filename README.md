@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on my programming skills and trying to build more intresting and independent projects
 - 🌱 I’m currently learning problem solving skills and open source contribution techniques
 - 👯 I’m looking to collaborate on upcomming projects
-📫 You can reach me on Linkedn : https://www.linkedin.com/in/ritika-parab-4b219121a/
+- 📫 You can reach me on Linkedn : https://www.linkedin.com/in/ritika-parab-4b219121a/
 
 <!--
 **ritikaparab/ritikaparab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
