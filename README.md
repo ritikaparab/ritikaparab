@@ -1,3 +1,4 @@
+![RITIKAPARAB464@GMAIL COM](https://user-images.githubusercontent.com/98406670/235313548-eb81fbbd-9347-40e9-85ff-b20da3f85c9d.jpg)
 <h1 align="center">Hi 👋, I'm Ritika Parab</h1>
 <h3 align="center">A passionate frontend developer and Student from India</h3>
 
